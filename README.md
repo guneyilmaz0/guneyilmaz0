@@ -1,27 +1,38 @@
-<h1 align="center">Hi 👋, I'm Güney Yılmaz</h1>
-<h3 align="center">A backend developer from Türkiye.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I'm+G%C3%BCney+Y%C4%B1lmaz;Backend+Developer;Data+Engineering+Student+@+PG" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guneyilmaz0&label=Profile%20views&color=0e75b6&style=flat" alt="guneyilmaz0" /> </p>
+<h3 align="center">Crafting scalable backend solutions and high-performance servers.</h3>
 
-- 🔭 I’m currently working on **HashCube**
+<div align="center">
+  <a href="mailto:guneyyilmaz2707@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/guneyilmaz0"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</div>
 
-- 🌱 I’m currently learning **Mobile Programming with Kotlin**
+<br/>
 
-- 👯 I’m looking to collaborate on [MongoS](https://github.com/guneyilmaz0/MongoS)
+### 👨‍💻 About Me
+- 🎓 Studying Data Engineering at **Politechnika Gdańska**
+- 🔭 I’m currently working on **[HashCube](https://hashcube.net/)**
+- 👯 I’m looking to collaborate on **[MongoS](https://github.com/guneyilmaz0/MongoS)**
 
-- 💬 Ask me about **Nukkit, PowerNukkit, PowerNukkitX**
-
-- 📫 How to reach me **guneyyilmaz2707@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Tech Stack
 <p align="left">
-<a href="https://twitter.com/guneyilmaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guneyilmaz0" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13863508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13863508" height="30" width="40" /></a>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">    </a>   </a> </p>
+### 📊 Statistics
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guneyilmaz0&theme=transparent" width="49%" alt="GitHub Stats" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guneyilmaz0&show_icons=true&locale=en&layout=compact" alt="guneyilmaz0" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guneyilmaz0&show_icons=true&locale=en" alt="guneyilmaz0" /></p>
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=guneyilmaz0&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
